@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/wong/AndroidStudioProjects/MyVolley/library/assets"/><source path="/home/wong/AndroidStudioProjects/MyVolley/library/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/wong/AndroidStudioProjects/MyVolley/library/src/debug/assets"/></dataSet></merger>

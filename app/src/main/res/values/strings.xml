@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">号码归属地</string>
+    <string name="phone_error">请输入手机号码</string>
+    <string name="input_cell_num">输入手机号</string>
+</resources>

@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:3:11-68
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:5:11-38
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml:4:11-38
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		ADDED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
+		INJECTED from /home/wong/AndroidStudioProjects/MyVolley/library/AndroidManifest.xml
